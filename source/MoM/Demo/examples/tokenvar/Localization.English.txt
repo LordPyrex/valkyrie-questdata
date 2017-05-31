@@ -4,6 +4,7 @@ EventPlaceInteriorHall.button1,Continue
 quest.name,Token Spawns for Variables
 quest.description,This is a demonstration to show how Explore Tokens can be added and removed depending on when a room is discovered. For the sake of demonstration this is simplified to show how it works for doors leading into the Interior Hall.
 quest.authors,LordPyrex
+EventIntro.text,This is a demonstration to show how Explore Tokens can be added and removed depending on when a room is discovered. For the sake of demonstration this is simplified to show how it works for doors leading into the Interior Hall.
 EventPlaceHallPart2.text,Here's the hall wrapping around
 EventPlaceHallPart2.button1,Continue
 EventStartingPlace.text,This is to demonstrate how variables can be used to prevent duplicate doors from spawning.
